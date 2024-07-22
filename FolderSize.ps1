@@ -1,0 +1,1 @@
+﻿Get-ChildItem -Path "D:\Users\Brian\Downloads" | Measure-Object -Property Length -Sum
